@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>Lifang-Zhu&#39;s first post</title>
+      <link href="/2024/02/23/Lifang-Zhu&#39;s%20first%20post/"/>
+      <url>/2024/02/23/Lifang-Zhu&#39;s%20first%20post/</url>
+      
+        <content type="html"><![CDATA[<h1 id="一级标题"><a href="#一级标题" class="headerlink" title="一级标题"></a>一级标题</h1><h2 id="二级标题"><a href="#二级标题" class="headerlink" title="二级标题"></a>二级标题</h2><ul><li>无序标题</li><li>无序标题</li></ul><p><strong>字体加粗</strong></p><hr><h3 id="表格如下"><a href="#表格如下" class="headerlink" title="表格如下"></a>表格如下</h3><table><thead><tr><th>命令名称</th><th>命令</th><th>备注</th></tr></thead><tbody><tr><td>克隆工程</td><td>git clone xxx</td><td>xxx为克隆链接</td></tr><tr><td>暂存文件修改、删除</td><td>git add -u</td><td>暂存文件修改、删除</td></tr><tr><td>暂存文件修改、新建</td><td>git add .</td><td>暂存文件修改、新建</td></tr><tr><td>暂存文件修改、删除、新建</td><td>git add -A</td><td>暂存文件修改、删除、新建</td></tr></tbody></table><h3 id="链接语法如下"><a href="#链接语法如下" class="headerlink" title="链接语法如下"></a>链接语法如下</h3><p><a href="https://jindu-chen.github.io/">点击链接</a></p><h3 id="图片语法如下"><a href="#图片语法如下" class="headerlink" title="图片语法如下"></a>图片语法如下</h3><p><img src="/../pictrues/treef.jpg" alt="图片标题"></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 分类1 </category>
+          
+          <category> 分类2 </category>
+          
+          <category> 分类3 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 标签1 </tag>
+            
+            <tag> 标签2 </tag>
+            
+            <tag> 标签3 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Lifang-Zhu&#39;s secondhes post</title>
+      <link href="/2024/02/23/aaa/"/>
+      <url>/2024/02/23/aaa/</url>
+      
+        <content type="html"><![CDATA[<h2 id="aaa"><a href="#aaa" class="headerlink" title="aaa"></a>aaa</h2>]]></content>
+      
+      
+      <categories>
+          
+          <category> 分类1 </category>
+          
+          <category> 分类2 </category>
+          
+          <category> 分类3 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 标签1 </tag>
+            
+            <tag> 标签2 </tag>
+            
+            <tag> 标签3 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Hello World</title>
+      <link href="/2024/02/22/hello-world/"/>
+      <url>/2024/02/22/hello-world/</url>
+      
+        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+  
+  
+    
+    
+    <entry>
+      <title>about</title>
+      <link href="/about/index.html"/>
+      <url>/about/index.html</url>
+      
+        <content type="html"><![CDATA[<h2 id="zhulifang"><a href="#zhulifang" class="headerlink" title="zhulifang"></a>zhulifang</h2><p>hello</p>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>categories</title>
+      <link href="/categories/index.html"/>
+      <url>/categories/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>tags</title>
+      <link href="/tags/index.html"/>
+      <url>/tags/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+  
+</search>
