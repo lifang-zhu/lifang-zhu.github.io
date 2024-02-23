@@ -1,5 +1,5 @@
 ---
-title: Lifang-Zhu's third post
+title: Lifang-Zhu's first post
 date: 2024-02-23
 tags:
 - [标签1]
@@ -12,6 +12,14 @@ categories:
 description: 文章的摘要在此处填写
 ---
 
+
+# 云端文件同步
+```
+git add --all
+git commit -m "update"
+git push
+
+```
 
 
 # 一级标题
